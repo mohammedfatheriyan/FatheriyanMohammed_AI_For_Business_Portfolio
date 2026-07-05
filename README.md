@@ -2,7 +2,7 @@
 <br>
 Author: Fatheriyan Mohammed<br>
 <br>
----<br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
 <b>Table of Contents</b><br>
 <br>
@@ -14,13 +14,13 @@ Author: Fatheriyan Mohammed<br>
 - How to Use This Repository<br>
 - Technologies Used<br>
 <br>
----<br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
 <b>About This Course</b><br>
 <br>
 This course covers applied artificial intelligence and machine learning for business solutions. Through hands-on projects, I learned how to build and use AI tools to solve real-world problems. The course teaches practical skills that companies use every day.<br>
 <br>
----<br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
 <b>Projects Overview</b><br>
 <br>
@@ -45,7 +45,7 @@ Create computer brains that can learn from examples and recognize patterns.<br>
 <b>Project 7: Natural Language Processing</b><br>
 Teach computers to understand and work with human language and text.<br>
 <br>
----<br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
 <b>Skills Developed</b><br>
 <br>
@@ -67,7 +67,7 @@ Teach computers to understand and work with human language and text.<br>
 - Neural Networks (computer learning)<br>
 - Natural Language Processing (understanding text)<br>
 <br>
----<br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
 <b>What I Learned</b><br>
 <br>
@@ -82,7 +82,7 @@ I can take raw data and prepare it for AI. I can build AI models, test them, and
 <b>Real-World Ready:</b><br>
 These projects taught me the full process from start to finish. I can now solve actual problems in a company. I know how to pick the right tool for different tasks. I can work with a team and explain what I did clearly.<br>
 <br>
----<br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
 <b>AI Statement</b><br>
 <br>
@@ -95,7 +95,7 @@ I used AI tools while doing these projects. AI helped me in several ways:<br>
 <br>
 <b>Important:</b> I did all the main thinking and learning myself. I tested the AI tools, understood the results, and made my own decisions. Everything you see is my work. I know why I did it and how it works. AI was a helper, not the main worker.<br>
 <br>
----<br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
 <b>How to Use This Repository</b><br>
 <br>
@@ -104,7 +104,7 @@ I used AI tools while doing these projects. AI helped me in several ways:<br>
 3. Run the Code: You can run the code on your computer<br>
 4. Learn: Read the comments and explanations to understand how it works<br>
 <br>
----<br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
 <b>Technologies Used</b><br>
 <br>
@@ -114,7 +114,7 @@ I used AI tools while doing these projects. AI helped me in several ways:<br>
 - Visualization (matplotlib, seaborn)<br>
 - Jupyter Notebooks (coding environment)<br>
 <br>
----<br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
 <b>Course Projects</b><br>
 <br>
@@ -126,6 +126,6 @@ Project 5 | Chapter 8 | Dimensionality Reduction<br>
 Project 6 | Chapter 10 | Artificial Neural Networks<br>
 Project 7 | Chapter 16 | Natural Language Processing<br>
 <br>
----<br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
 Last Updated: July 2026
