@@ -1,75 +1,75 @@
 # Applied AI Solutions for Business and Technology<br>
 <br>
-Author: Fatheriyan Mohammed<br>
+<b>Author:</b> Fatheriyan Mohammed<br>
 <br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
-<b>Table of Contents</b><br>
+<b> Table of Contents</b><br>
 <br>
-- About This Course<br>
-- Projects Overview<br>
-- Skills Developed<br>
-- What I Learned<br>
-- AI Statement<br>
-- How to Use This Repository<br>
-- Technologies Used<br>
+-- [] About This Course<br>
+-- [] Projects Overview<br>
+-- [] Skills Developed<br>
+-- [] What I Learned<br>
+-- [] AI Statement<br>
+-- [] How to Use This Repository<br>
+-- [] Technologies Used<br>
 <br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
-<b>About This Course</b><br>
+## <b>About This Course</b><br>
 <br>
 This course covers applied artificial intelligence and machine learning for business solutions. Through hands-on projects, I learned how to build and use AI tools to solve real-world problems. The course teaches practical skills that companies use every day.<br>
 <br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
-<b>Projects Overview</b><br>
+## <b>Projects Overview</b><br>
 <br>
 <b>Project 1: Machine Learning Review</b><br>
-Introduction to machine learning basics. Learn what machine learning is and how it works.<br>
+-- [] Introduction to machine learning basics. Learn what machine learning is and how it works.<br>
 <br>
 <b>Project 2: Classification</b><br>
-Learn to teach computers to sort data into different groups or categories.<br>
+-- [] Learn to teach computers to sort data into different groups or categories.<br>
 <br>
 <b>Project 3: Support Vector Machines</b><br>
-Study a powerful method that finds the best line to separate different types of data.<br>
+-- [] Study a powerful method that finds the best line to separate different types of data.<br>
 <br>
 <b>Project 4: Decision Trees</b><br>
-Build AI models that make decisions by asking yes or no questions, step by step.<br>
+-- [] Build AI models that make decisions by asking yes or no questions, step by step.<br>
 <br>
 <b>Project 5: Dimensionality Reduction</b><br>
-Learn how to remove unnecessary information and keep only what matters.<br>
+-- [] Learn how to remove unnecessary information and keep only what matters.<br>
 <br>
 <b>Project 6: Artificial Neural Networks</b><br>
-Create computer brains that can learn from examples and recognize patterns.<br>
+-- [] Create computer brains that can learn from examples and recognize patterns.<br>
 <br>
 <b>Project 7: Natural Language Processing</b><br>
-Teach computers to understand and work with human language and text.<br>
+-- [] Teach computers to understand and work with human language and text.<br>
 <br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
-<b>Skills Developed</b><br>
+## <b>Skills Developed</b><br>
 <br>
 <b>Data Skills:</b><br>
-- Cleaning and organizing data<br>
-- Preparing data for AI tools<br>
-- Creating charts and pictures to show data<br>
+✓ Cleaning and organizing data<br>
+✓ Preparing data for AI tools<br>
+✓ Creating charts and pictures to show data<br>
 <br>
 <b>Model Building:</b><br>
-- Making AI tools that sort data into groups<br>
-- Improving AI tools to work better and faster<br>
-- Testing if AI tools work correctly<br>
+✓ Making AI tools that sort data into groups<br>
+✓ Improving AI tools to work better and faster<br>
+✓ Testing if AI tools work correctly<br>
 <br>
 <b>Machine Learning Methods:</b><br>
-- Classification (sorting into groups)<br>
-- Support Vector Machines (finding best data split)<br>
-- Decision Trees (step-by-step choices)<br>
-- Dimensionality Reduction (removing extra information)<br>
-- Neural Networks (computer learning)<br>
-- Natural Language Processing (understanding text)<br>
+✓ Classification (sorting into groups)<br>
+✓ Support Vector Machines (finding best data split)<br>
+✓ Decision Trees (step-by-step choices)<br>
+✓ Dimensionality Reduction (removing extra information)<br>
+✓ Neural Networks (computer learning)<br>
+✓ Natural Language Processing (understanding text)<br>
 <br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
-<b>What I Learned</b><br>
+## <b>What I Learned</b><br>
 <br>
 Through this course, I gained real understanding of how AI works and how to use it:<br>
 <br>
@@ -84,48 +84,61 @@ These projects taught me the full process from start to finish. I can now solve 
 <br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
-<b>AI Statement</b><br>
+## <b>AI Statement</b><br>
 <br>
 I used AI tools while doing these projects. AI helped me in several ways:<br>
 <br>
-- Writing code faster and finding mistakes<br>
-- Understanding hard ideas and concepts<br>
-- Explaining my work clearly<br>
-- Finding answers to questions<br>
+-- [] Writing code faster and finding mistakes<br>
+-- [] Understanding hard ideas and concepts<br>
+-- [] Explaining my work clearly<br>
+-- [] Finding answers to questions<br>
 <br>
 <b>Important:</b> I did all the main thinking and learning myself. I tested the AI tools, understood the results, and made my own decisions. Everything you see is my work. I know why I did it and how it works. AI was a helper, not the main worker.<br>
 <br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
-<b>How to Use This Repository</b><br>
+## <b>How to Use This Repository</b><br>
 <br>
-1. Find Your Project: Look for the project folder you want to work on<br>
-2. Read the Files: Each project has a notebook or document with code and explanations<br>
-3. Run the Code: You can run the code on your computer<br>
-4. Learn: Read the comments and explanations to understand how it works<br>
+<b>-- [] Find Your Project:</b> Look for the project folder you want to work on<br>
 <br>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>-- [] Read the Files:</b> Each project has a notebook or document with code and explanations<br>
 <br>
-<b>Technologies Used</b><br>
+<b>-- [] Run the Code:</b> You can run the code on your computer<br>
 <br>
-- Python (programming language)<br>
-- Machine Learning (scikit-learn, TensorFlow)<br>
-- Data Tools (pandas, NumPy)<br>
-- Visualization (matplotlib, seaborn)<br>
-- Jupyter Notebooks (coding environment)<br>
+<b>-- [] Learn:</b> Read the comments and explanations to understand how it works<br>
 <br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
-<b>Course Projects</b><br>
+## <b>Technologies Used</b><br>
 <br>
-Project 1 | Chapter 1 | Machine Learning Review<br>
-Project 2 | Chapter 3 | Classification<br>
-Project 3 | Chapter 5 | Support Vector Machines<br>
-Project 4 | Chapter 6 | Decision Trees<br>
-Project 5 | Chapter 8 | Dimensionality Reduction<br>
-Project 6 | Chapter 10 | Artificial Neural Networks<br>
-Project 7 | Chapter 16 | Natural Language Processing<br>
+-- [] <b>Python</b> - Programming language<br>
+-- [] <b>Machine Learning</b> - scikit-learn, TensorFlow<br>
+-- [] <b>Data Tools</b> - pandas, NumPy<br>
+-- [] <b>Visualization</b> - matplotlib, seaborn<br>
+-- [] <b>Jupyter Notebooks</b> - Coding environment<br>
 <br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
-Last Updated: July 2026
+## <b> Course Projects Summary</b><br>
+<br>
+|  | Chapter | Topic |<br>
+|:---:|:---:|:---|<br>
+| 1 | Chapter 1 | Machine Learning Review |<br>
+| 2 | Chapter 3 | Classification |<br>
+| 3 | Chapter 5 | Support Vector Machines |<br>
+| 4 | Chapter 6 | Decision Trees |<br>
+| 5 | Chapter 8 | Dimensionality Reduction |<br>
+| 6 | Chapter 10 | Artificial Neural Networks |<br>
+| 7 | Chapter 16 | Natural Language Processing |<br>
+<br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
+<br>
+## <b>Link to the Project Notebooks</b><br>
+<br>
+<b>All Projects Folder:</b><br>
+ [Access All Projects on Google Drive](https://drive.google.com/drive/folders/1rZXcZPlZ2foo_hQ-hLCiCrjqCoKnti14?usp=sharing)<br>
+<br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
+<br>
+<b>Last Updated:</b> July 2026<br>
+<br>
