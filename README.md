@@ -128,10 +128,4 @@ Project 7 | Chapter 16 | Natural Language Processing<br>
 <br>
 ---<br>
 <br>
-<b>Questions?</b><br>
-<br>
-If you have questions about any project, feel free to look at the code and comments. Each file explains what is happening step by step.<br>
-<br>
----<br>
-<br>
 Last Updated: July 2026
