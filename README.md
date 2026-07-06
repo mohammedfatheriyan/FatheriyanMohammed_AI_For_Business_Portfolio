@@ -122,15 +122,14 @@ I used AI tools while doing these projects. AI helped me in several ways:<br>
 <br>
 <b>Course Projects Summary</b><br>
 <br>
-| Project | Chapter | Topic |<br>
-|:---:|:---:|:---|<br>
-| 1 | Chapter 1 | Machine Learning Review |<br>
-| 2 | Chapter 3 | Classification |<br>
-| 3 | Chapter 5 | Support Vector Machines |<br>
-| 4 | Chapter 6 | Decision Trees |<br>
-| 5 | Chapter 8 | Dimensionality Reduction |<br>
-| 6 | Chapter 10 | Artificial Neural Networks |<br>
-| 7 | Chapter 16 | Natural Language Processing |<br>
+| Project | Chapter    | Topic                       |<br>
+| 1       | Chapter 1  | Machine Learning Review     |<br>
+| 2       | Chapter 3  | Classification              |<br>
+| 3       | Chapter 5  | Support Vector Machines     |<br>
+| 4       | Chapter 6  | Decision Trees              |<br>
+| 5       | Chapter 8  | Dimensionality Reduction    |<br>
+| 6       | Chapter 10 | Artificial Neural Networks  |<br>
+| 7       | Chapter 16 | Natural Language Processing |<br>
 <br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
@@ -154,14 +153,6 @@ I used AI tools while doing these projects. AI helped me in several ways:<br>
 [Open Project 6: Artificial Neural Networks](https://drive.google.com/drive/folders/1rZXcZPlZ2foo_hQ-hLCiCrjqCoKnti14?usp=sharing)<br>
 <br>
 [Open Project 7: Natural Language Processing](https://drive.google.com/drive/folders/1rZXcZPlZ2foo_hQ-hLCiCrjqCoKnti14?usp=sharing)<br>
-<br>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
-<br>
-<b>Questions?</b><br>
-<br>
-If you have questions about any project, feel free to look at the code and comments. Each file explains what is happening step by step.<br>
-<br>
-<b>Tip:</b> Start with Project 1 to get the basics, then move to more complex projects!<br>
 <br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
