@@ -138,22 +138,6 @@ I used AI tools while doing these projects. AI helped me in several ways:<br>
 <b>All Projects Folder:</b><br>
 [Access All Projects on Google Drive](https://drive.google.com/drive/folders/1rZXcZPlZ2foo_hQ-hLCiCrjqCoKnti14?usp=sharing)<br>
 <br>
-<b>Individual Projects:</b><br>
-<br>
-[Open Project 1: Machine Learning Review](https://drive.google.com/drive/folders/1rZXcZPlZ2foo_hQ-hLCiCrjqCoKnti14?usp=sharing)<br>
-<br>
-[Open Project 2: Classification](https://drive.google.com/drive/folders/1rZXcZPlZ2foo_hQ-hLCiCrjqCoKnti14?usp=sharing)<br>
-<br>
-[Open Project 3: Support Vector Machines](https://drive.google.com/drive/folders/1rZXcZPlZ2foo_hQ-hLCiCrjqCoKnti14?usp=sharing)<br>
-<br>
-[Open Project 4: Decision Trees](https://drive.google.com/drive/folders/1rZXcZPlZ2foo_hQ-hLCiCrjqCoKnti14?usp=sharing)<br>
-<br>
-[Open Project 5: Dimensionality Reduction](https://drive.google.com/drive/folders/1rZXcZPlZ2foo_hQ-hLCiCrjqCoKnti14?usp=sharing)<br>
-<br>
-[Open Project 6: Artificial Neural Networks](https://drive.google.com/drive/folders/1rZXcZPlZ2foo_hQ-hLCiCrjqCoKnti14?usp=sharing)<br>
-<br>
-[Open Project 7: Natural Language Processing](https://drive.google.com/drive/folders/1rZXcZPlZ2foo_hQ-hLCiCrjqCoKnti14?usp=sharing)<br>
-<br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 <br>
 <b>Last Updated:</b> July 2026<br>
